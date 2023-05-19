@@ -1,0 +1,15 @@
+---
+title: "practical-4"
+author: "SunghoPark(matk.NR:12469817)"
+date: "2023-05-19"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+```
+
